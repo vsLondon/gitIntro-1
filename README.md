@@ -57,7 +57,9 @@ _This activity works best if you are completing it with someone else in order to
 - From the command line, ensure you are in the folder containing your local copy of the forked repo and then type:
 
    `git add myName.md` (where _myName.<span>md</span>_ is the name of the file you have just created)
+   
    `git commit --message "Add my details"`
+   
    `git push`
 
    If you point a browser to your repo on GitHub and refresh the page, you should see your newly created file now listed as part of the repo.
